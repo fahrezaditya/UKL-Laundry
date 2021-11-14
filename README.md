@@ -5,4 +5,4 @@
 ### Soal : Laundry
 
 ## Class Diagram
-![alt text](link)
+![alt text](https://github.com/fahrezaditya/UKL-Laundry/blob/master/img/UKL%20Laundry.png)
